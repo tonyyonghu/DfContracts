@@ -26,7 +26,7 @@ Df will not create new tokens once the fund is exhausted."
 
 - Team wallet contract code on [Github](https://github.com/tonyyonghu/DfContracts/blob/master/DfTeam.sol) 
 - Wallet Address: [0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653](https://etherscan.io/address/0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653)
-- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L12)
+- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L12)
 
 #### Early Adopters (5,000,000 DF)
 > "Df will allocate 5 million tokens for its early adopters, incentivizing users who are ready to be
@@ -36,7 +36,7 @@ After the first 9 months, any unused tokens will be transferred to the Reward Po
 members. Df will not create new tokens once the fund is exhausted."
 
 - Wallet Address: [0x5DD184EC1fB992c158EA15936e57A20C70761f84](https://etherscan.io/address/0x5DD184EC1fB992c158EA15936e57A20C70761f84)
-- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L10)
+- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L10)
 
 #### Launch Partners (5,000,000 DF) 
 > "In order to grow our user base, we’ll partner with leading publishers from around the world. A
