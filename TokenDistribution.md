@@ -11,7 +11,7 @@ For detailed info, you can [check whitepaper](http://www.darkforce.io/pdf/DF_whi
 ## How many DF tokens supplied?
 **Total supply:** 616,000,000 DF  
 
-- Token Contract [Github](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L33) 
+- Token Contract [Github](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L33) 
 - Token Contract [Etherscan](https://etherscan.io/address/0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653#code)
 
 ## Was there a presale phase?
@@ -47,7 +47,7 @@ tokens, only if they keep using our commenting solution.
 Df will not create new tokens once the fund is exhausted"
 
 - Wallet Address: [0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653](https://etherscan.io/address/0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653)
-- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L11)
+- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L11)
 
 #### Marketing and Development (1,000,000 DF)
 > "In the current cryptocurrency landscape, a well-thought-out marketing strategy is critical to the
@@ -57,7 +57,7 @@ marketing and future development. Df will send unused tokens to the Reward Pool.
 Df will not create new tokens once the fund is exhausted"
 
 - Wallet Address: [0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653](https://etherscan.io/address/0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653)
-- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L13)
+- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L13)
 
 #### Reward Pool (500,000,000 DF)
 > "In order to show our commitment towards creating a fair content economy, we have allotted
@@ -65,10 +65,10 @@ Df will not create new tokens once the fund is exhausted"
 and ecosystem rewards."
 
 - Wallet Address: [0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653](https://etherscan.io/address/0xfb98593eBEE4A0b3d1C5272Ef0180DD75De7f653)
-- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L8)
+- Allocation in [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L8)
 
 ## How many tokens were sold in total? 
-In [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/312e1ac82a53d070c6220d2af1b7e04879692b8c/DfToken.sol#L9), 100 million DF allocated for ICO investors.
+In [Token Contract](https://github.com/tonyyonghu/DfContracts/blob/master/DfToken.sol#L9), 100 million DF allocated for ICO investors.
 
 Presale + ICO + ICO Bonuses : **32,317,309.73 DF** tokens sold.
 
